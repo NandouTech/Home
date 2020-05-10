@@ -1,5 +1,5 @@
 
-**模版演示地址：** http://theme.demo.siteserver.cn/batraz/index.html
+**模版演示地址：** http://theme.demo.siteserver.cn../index.html
 
 如果还未安装产品的特提供相应链接：
 
