@@ -103,6 +103,14 @@ img {
   background: none;
   border: 1px solid #fff;
 }
+/*-content-*/
+.content{
+  color: black;
+}
+.box{
+  width:80%;
+  margin: auto;
+}
 /*********nav start***********/
 .navwrap {
   padding-top: 20px;
